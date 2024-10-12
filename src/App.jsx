@@ -7,6 +7,7 @@ function App() {
   console.log(import.meta.env.VITE_NODE_ENV);
   return (
     <>
+      <p>qa</p>
       <div className="max-w-[400px] m-auto   py-10  flex   justify-between items-center">
         <button
           className="text-2xl font-bold"
